@@ -1,38 +1,56 @@
-# Hi 👋, I'm Sugahssri Rasamanikam
-
-🎓 AI Graduate & in a Professional Data Analytic  
-🤖 Machine Learning Enthusiast  
-📊 Building real-world AI projects using Python  
+<h1 align="center">Hi 👋, I'm Sugahssri</h1>
+<h3 align="center">AI Developer | Data Analyst | Future Tech Leader 💙💼</h3>
 
 ---
 
-## 💡 About Me
-- 🔭 Currently working on Machine Learning projects  
-- 🌱 Learning Deep Learning, AI & Data Science  
-- 💬 Ask me about Python, ML, Data Science  
+<!-- BLUE HEADER BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077ff,100:00c6ff&height=200&section=header&text=Welcome%20to%20My%20GitHub&fontSize=35&fontColor=ffffff"/>
+</p>
 
 ---
 
-## 🚀 Tech Stack
-Python • Machine Learning • Deep Learning • Pandas • NumPy • TensorFlow • Scikit-learn
+## 💼 About Me
+- 👩‍💻 AI & Data Science enthusiast  
+- 📊 Turning data into smart decisions  
+- 🤖 Focused on Machine Learning & Deep Learning  
+- 🚀 Building real-world AI projects  
+- 💙 Strong, consistent, growth-focused mindset  
+
+---
+
+## ⚙️ Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/Python-0078D4?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-00AEEF?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-1E90FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Power%20BI-0077B6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Google%20Colab-00B4D8?style=for-the-badge"/>
+</p>
+
+---
+
+## 🚀 What I Do
+- 📈 Data Analysis & Visualization  
+- 🧠 Machine Learning Models 
+- 🌧️ Prediction Systems 
+- 💡 AI-based problem solving  
+
+---
+
+## 💙 Mindset
+> “Stay consistent. Stay focused. Build your future one model at a time.”  
+> “Strong mind. Smart systems. Successful future.”  
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sugahssri-2000&show_icons=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+</p>
 
 ---
 
-## 🔥 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sugahssri-2000)
-
----
-
-[LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/sugahssri-rasamanikam-44754b319/))
-
-![Python](https://img.shields.io/badge/Python-blue)
-![Machine Learning](https://img.shields.io/badge/MachineLearning-green)
-![AI](https://img.shields.io/badge/AI-red)
-
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Sugahssri-2000)
+## 📬 Connect With Me
+- 💼 LinkedIn: https://www.linkedin.com/in/sugahssri-rasamanikam-44754b319/
+- 📧 Email: rsugahssri@gmail.com
