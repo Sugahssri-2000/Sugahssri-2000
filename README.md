@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi 👋, I'm Sugahssri Rasamanikam
 
-<!--
-**Sugahssri-2000/Sugahssri-2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AI Graduate & in a Professional Data Analytic  
+🤖 Machine Learning Enthusiast  
+📊 Building real-world AI projects using Python  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 About Me
+- 🔭 Currently working on Machine Learning projects  
+- 🌱 Learning Deep Learning, AI & Data Science  
+- 💬 Ask me about Python, ML, Data Science  
+
+---
+
+## 🚀 Tech Stack
+Python • Machine Learning • Deep Learning • Pandas • NumPy • TensorFlow • Scikit-learn
+
+---
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sugahssri-2000&show_icons=true)
+
+---
+
+## 🔥 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sugahssri-2000)
+
+---
+
+[LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/sugahssri-rasamanikam-44754b319/))
+
+![Python](https://img.shields.io/badge/Python-blue)
+![Machine Learning](https://img.shields.io/badge/MachineLearning-green)
+![AI](https://img.shields.io/badge/AI-red)
+
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Sugahssri-2000)
